@@ -129,6 +129,6 @@ Jupyter Notebook
 
 Atul Soni
 Portfolio website: https://www.wscubetech.com/portfolio/data/atul-soni-8nrpnp1
-GitHub: github.com/imatulsoni052-gif
-LinkedIn: linkedin.com/in/atul-soni-ab4638393
+GitHub: https://github.com/imatulsoni052-gif
+LinkedIn: https://www.linkedin.com/in/atul-soni-ab4638393/
 ⭐ If you found this project useful, consider giving the repository a star!
