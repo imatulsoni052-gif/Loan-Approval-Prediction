@@ -1,4 +1,4 @@
-#🏦 Loan Approval Prediction using Machine Learning
+🏦 # Loan Approval Prediction using Machine Learning
 
 A Machine Learning solution that predicts loan approval decisions with 92.7% accuracy, enabling faster, data-driven, and risk-aware lending decisions.
 
