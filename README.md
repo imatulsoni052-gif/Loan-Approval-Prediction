@@ -128,7 +128,9 @@ python loan_approval_prediction.py
 Built by Atul Soni as part of a data analytics portfolio project.
 
 Portfolio: https://www.wscubetech.com/portfolio/data/atul-soni-8nrpnp1
+
 GitHub: https://github.com/imatulsoni052-gif
+
 LinkedIn: https://www.linkedin.com/in/atul-soni-ab4638393/
 
 If you find this project useful, feel free to star the repository.
