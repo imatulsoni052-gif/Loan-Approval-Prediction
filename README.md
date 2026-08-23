@@ -2,11 +2,11 @@
 
 A machine learning project that predicts loan approval outcomes with 92.7% accuracy, aimed at helping lenders make faster and more consistent credit decisions
 
-*Overview*
+**Overview**
 
 Financial institutions process a large volume of loan applications every day, and manual evaluation is often slow, inconsistent, and expensive. This project uses machine learning to automate the loan approval decision by analyzing an applicant's financial, credit, and asset details. The goal is to identify creditworthy applicants while reducing lending risk and speeding up the approval process
 
-*Business Problem*
+**Business Problem**
 
 Lenders need a way to:
 - Evaluate applicants quickly and consistently
